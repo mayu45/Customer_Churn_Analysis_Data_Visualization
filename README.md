@@ -1,17 +1,16 @@
-# Customer_Churn_Analysis_Data_Visualization
+# Project Title
+Customer_Churn_Analysis_Data_Visualization
+
+
+
+# Description
 This project analyzes customer churn in a telecom dataset using Python (Pandas, NumPy, Matplotlib, Seaborn). It identifies key churn drivers such as contract type, payment method, tenure, and demographics, and provides actionable insights to improve customer retention.
+
 
 
 # Objective:
 The analysis explores customer churn patterns, focusing on various factors such as payment methods, contract types, tenure, and demographic attributes. The goal is to identify which factors are most strongly associated with higher churn rates to guide customer retention strategies.
 
-
-# Customer_Churn_Analysis_Data_Visualization
-This project analyzes customer churn in a telecom dataset using Python (Pandas, NumPy, Matplotlib, Seaborn). It identifies key churn drivers such as contract type, payment method, tenure, and demographics, and provides actionable insights to improve customer retention.
-
-
-# Objective:
-The analysis explores customer churn patterns, focusing on various factors such as payment methods, contract types, tenure, and demographic attributes. The goal is to identify which factors are most strongly associated with higher churn rates to guide customer retention strategies.
 
 
 # Key Insights & Findings:
@@ -37,6 +36,7 @@ The analysis explores customer churn patterns, focusing on various factors such 
 ○	Implication: Special retention programs and targeted customer service for senior customers may help reduce churn in this demographic. <br/>
 
 
+
 # Visualizations & Data Insights:
 ## Bar Charts and Line Graphs:
 ○          The visual representation of churn by payment method clearly shows that customers using electronic checks churn almost three times as much as those using more traditional or secure methods like credit cards. <br/>
@@ -46,6 +46,7 @@ The analysis explores customer churn patterns, focusing on various factors such 
 ○	Payment Methods: 45% churn for electronic check users, 15% for credit card users. <br/>
 ○	Contract Types: 42% churn for month-to-month contracts, 11% for yearly contracts, 3% for two-year contracts. <br/>
 ○	Tenure: 50% churn in the first year, dropping to 15% after three years. <br/>
+
 
 
 # Recommendations:
